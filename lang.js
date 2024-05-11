@@ -55,6 +55,86 @@ const langArr = {
     en: 'Skills and Proficiency',
     ru: 'Навыки и знания',
   },
+  http_methods: {
+    en: 'HTTP methods (Get, Post, Put, Delete, Patch):&nbsp',
+    ru: 'HTTP методы (Get, Post, Put, Delete, Patch):&nbsp',
+  },
+  methodologies: {
+    en: 'Software methodologies (Waterfall, Agile, Scrum, Kanban):',
+    ru: 'Методологии ПО (Waterfall, Agile, Scrum, Kanban):',
+  },
+  advanced_sql: {
+    en: '&nbspAdvanced',
+    ru: '&nbspПродвинутый',
+  },
+  advanced_html: {
+    en: '&nbspAdvanced',
+    ru: '&nbspПродвинутый',
+  },
+  intermediate_js: {
+    en: '&nbspIntermediate',
+    ru: '&nbspСредний',
+  },
+  intermediate_ts: {
+    en: '&nbspIntermediate',
+    ru: '&nbspСредний',
+  },
+  basic_react: {
+    en: '&nbspBasic',
+    ru: '&nbspБазовый',
+  },
+  advanced_git: {
+    en: '&nbspAdvanced',
+    ru: '&nbspПродвинутый',
+  },
+  advanced_jira: {
+    en: '&nbspAdvanced',
+    ru: '&nbspПродвинутый',
+  },
+  advanced_checklist: {
+    en: '&nbspAdvanced',
+    ru: '&nbspПродвинутый',
+  },
+  advanced_soap: {
+    en: '&nbspAdvanced',
+    ru: '&nbspПродвинутый',
+  },
+  advanced_methods: {
+    en: '&nbspAdvanced',
+    ru: '&nbspПродвинутый',
+  },
+  advanced_postman: {
+    en: '&nbspAdvanced',
+    ru: '&nbspПродвинутый',
+  },
+  advanced_devtools: {
+    en: '&nbspAdvanced',
+    ru: '&nbspПродвинутый',
+  },
+  advanced_dbeaver: {
+    en: '&nbspAdvanced',
+    ru: '&nbspПродвинутый',
+  },
+  advanced_rabbit: {
+    en: '&nbspAdvanced',
+    ru: '&nbspПродвинутый',
+  },
+  advanced_methodologies: {
+    en: '&nbspAdvanced',
+    ru: '&nbspПродвинутый',
+  },
+  advanced_puppeteer: {
+    en: '&nbspAdvanced',
+    ru: '&nbspПродвинутый',
+  },
+  advanced_vmware: {
+    en: '&nbspAdvanced',
+    ru: '&nbspПродвинутый',
+  },
+  advanced_figma: {
+    en: '&nbspAdvanced',
+    ru: '&nbspПродвинутый',
+  },
   experience: {
     en: 'Experience',
     ru: 'Опыт',
