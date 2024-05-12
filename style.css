@@ -88,7 +88,7 @@ a {
 }
 
 li {
-  margin-bottom: 8px;
+  margin-bottom: 9px;
 }
 
 .to {
@@ -193,10 +193,6 @@ h1 {
   font-size: 30px;
 }
 
-h2 {
-  font-size: 24px;
-}
-
 .messengers {
   display: flex;
   list-style-type: none;
@@ -243,7 +239,7 @@ h2 {
 }
 
 .education li {
-  margin-right: 15px;
+  margin: 0.7em 15px 0.7em 0;
 }
 
 .header_li {
@@ -546,7 +542,7 @@ h2 {
   }
 
   h2 {
-    font-size: 20px;
+    font-size: 24px;
   }
 
   .contacts span {
@@ -559,7 +555,7 @@ h2 {
   }
 
   h2 {
-    font-size: 18px;
+    font-size: 24px;
   }
 
   .github {
