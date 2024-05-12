@@ -58,7 +58,7 @@ function changeLanguage() {
     location.reload();
   }
   select.value = hash;
-    // document.querySelector('.lng-advanced').innerHTML = langArr['advanced'][hash];
+  // document.querySelector('.lng-advanced').innerHTML = langArr['advanced'][hash];
   for (let key in langArr) {
     let elem = document.querySelector('.lng-' + key);
     if (elem) {
