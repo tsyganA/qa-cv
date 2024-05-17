@@ -238,6 +238,10 @@ h1 {
   padding-left: 0;
 }
 
+.education {
+  margin-top: 0;
+}
+
 .education li {
   margin: 0.7em 15px 0.7em 0;
 }
@@ -369,6 +373,12 @@ h1 {
   color: #fc60a0;
   margin: 0 1.4em 0 0;
   padding: 0;
+}
+
+h3 {
+  margin: 0;
+  padding: 0 40px;
+  font-size: 21px;
 }
 
 @media screen and (min-width: 768px) and (max-width: 930.98px) {
@@ -539,10 +549,6 @@ h1 {
 
   .color_fon_languages li {
     font-size: 15px;
-  }
-
-  h2 {
-    font-size: 24px;
   }
 
   .contacts span {
@@ -728,6 +734,7 @@ h1 {
     background: none;
     color: #cdcdcd;
   }
+
   .experience::before {
     left: 0.75em;
   }
@@ -738,5 +745,9 @@ h1 {
 
   .experience_li::before {
     left: -0.76em;
+  }
+
+  h3 {
+    font-size: 17px;
   }
 }
